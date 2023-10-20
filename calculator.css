@@ -15,6 +15,7 @@
 }
 .calculator{
     background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 15px;
     border-radius: 30px;
     box-shadow: inset 5px 5px 12px #ffffff,5px 5px 12px rgba(0,0,0,.16);
@@ -60,4 +61,8 @@ button:hover{
     width:115px;
     background-color: #ecf0f3;
 
+}
+p{
+    color: rgb(130, 181, 181);
+   
 }
