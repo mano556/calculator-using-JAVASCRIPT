@@ -21,3 +21,4 @@ function clr() {
 function del(){
     caldisplay.value = caldisplay.value.slice(0,-1);
 }
+
